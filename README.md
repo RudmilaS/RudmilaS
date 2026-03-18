@@ -26,7 +26,7 @@ I'm currently seeking a **4–16 month data analytics or solutions delivery inte
 
 ## 📁 Featured Projects
 
-### 🔭 [Solar Differential Rotation Analysis](./solar-differential-rotation)
+### 🔭 [Solar Differential Rotation Analysis](./Solar-Differential-Rotation)
 Analyzed NASA SDO observational data using Python to identify differential rotation trends across solar latitude bands. Built a heliocentric coordinate framework, applied trigonometric modeling, and developed data visualizations to support model interpretation.  
 `Python` `NumPy` `pandas` `Matplotlib` `Observational Data`
 

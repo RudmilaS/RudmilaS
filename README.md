@@ -51,7 +51,7 @@ Built a multi-sheet Excel dashboard tracking income, expenses, and savings acros
 ---
 
 ## 📚 Currently Studying
-- Computational Physics · Statistical Mechanics · Applied Statistics (R)
+- Mathematical Methods · Statistical Mechanics · Quantum Mechanics
 - Exploring: SQL for data analysis · Kaggle datasets
 
 ---

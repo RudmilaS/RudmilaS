@@ -53,9 +53,3 @@ Built a multi-sheet Excel dashboard tracking income, expenses, and savings acros
 ## 📚 Currently Studying
 - Mathematical Methods · Statistical Mechanics · Quantum Mechanics
 - Exploring: SQL for data analysis · Kaggle datasets
-
----
-
-## 📫 Contact
-- **Email:** rudmilas@ualberta.ca
-- **Location:** Edmonton, AB, Canada

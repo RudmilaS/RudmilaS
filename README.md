@@ -27,8 +27,6 @@ I'm a 3rd-year Mathematical Physics student with a strong focus on **data analys
 
 I'm currently seeking a **4–16 month data analytics or solutions delivery internship** beginning May 2026 through UAlberta's Science Co-op Program.
 
-Before coming to Canada, community service was a big part of my life — tree plantation drives, community cleaning campaigns, and literacy programs for Rohingya refugees. That sense of purpose travels with me. I'm looking for work that is technically rigorous and genuinely useful to people.
-
 ---
 
 ## 📁 Featured Projects
@@ -60,22 +58,6 @@ Built a multi-sheet Excel dashboard tracking income, expenses, and savings acros
 ## 📚 Currently Studying
 - Mathematical Methods · Statistical Mechanics · Quantum Mechanics
 - Exploring: SQL for data analysis · Kaggle datasets
-
----
-
-## 🧩 Beyond the Code
-
-I solve jigsaw puzzles the same way I approach data — find the edges first, build the structure, then fill in the details. It's the same instinct that makes me enjoy finding patterns in messy datasets.
-
-I also maintain a detailed personal budgeting system in Excel (yes, voluntarily), because understanding where your money goes is just another kind of data problem.
-
-And somewhere between the physics and the spreadsheets, I'm trying to stay connected to the reason I came here in the first place — to learn, contribute, and be useful to the people around me.
-
----
-
-## 📫 Contact
-- **Email:** rudmilas@ualberta.ca
-- **Location:** Edmonton, AB, Canada
 
 ---
 

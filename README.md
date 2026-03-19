@@ -4,6 +4,7 @@
 📍 Edmonton, AB &nbsp;|&nbsp; 📧 rudmilas@ualberta.ca
 
 ---
+![Puzzle Banner](./jigsaw_puzzle_readme_banner.svg)
 
 ## About Me
 

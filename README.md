@@ -1,4 +1,4 @@
-.# Hi, I'm Rudmila 👋
+# Hi, I'm Rudmila 👋
 
 **Mathematical Physics undergraduate @ University of Alberta | Science Internship/Co-op Program**  
 📍 Edmonton, AB, CA &nbsp;|&nbsp; 📧 rudmilas@ualberta.ca

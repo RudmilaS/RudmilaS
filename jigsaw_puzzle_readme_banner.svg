@@ -1,0 +1,63 @@
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .pp { fill: #EEEDFE; stroke: #534AB7; }
+  .pr { fill: #E1F5EE; stroke: #0F6E56; }
+  .pe { fill: #FAEEDA; stroke: #854F0B; }
+  .ph { fill: #FAECE7; stroke: #993C1D; }
+  .ps { fill: #F1EFE8; stroke: #5F5E5A; stroke-dasharray: 5 3; }
+  .lp { fill: #3C3489; } .sp { fill: #534AB7; }
+  .lr { fill: #085041; } .sr { fill: #0F6E56; }
+  .le { fill: #633806; } .se { fill: #854F0B; }
+  .lh { fill: #712B13; } .sh { fill: #993C1D; }
+  .ls { fill: #5F5E5A; } .ss { fill: #888780; }
+  @media (prefers-color-scheme: dark) {
+    .pp { fill: #26215C; stroke: #AFA9EC; }
+    .pr { fill: #04342C; stroke: #5DCAA5; }
+    .pe { fill: #412402; stroke: #EF9F27; }
+    .ph { fill: #4A1B0C; stroke: #F0997B; }
+    .ps { fill: #2C2C2A; stroke: #B4B2A9; stroke-dasharray: 5 3; }
+    .lp { fill: #CECBF6; } .sp { fill: #AFA9EC; }
+    .lr { fill: #9FE1CB; } .sr { fill: #5DCAA5; }
+    .le { fill: #FAC775; } .se { fill: #EF9F27; }
+    .lh { fill: #F5C4B3; } .sh { fill: #F0997B; }
+    .ls { fill: #B4B2A9; } .ss { fill: #888780; }
+  }
+</style>
+<path class="pp" stroke-width="1.2"
+  d="M20,25 Q60,25 60,15 Q60,5 80,5 Q100,5 100,15 Q100,25 140,25
+     L140,65 Q150,65 150,75 Q150,85 140,85
+     L140,130 L20,130 Z"/>
+<text font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle" class="lp" x="80" y="72">Python</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sp" x="80" y="88">NumPy · pandas · SciPy</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sp" x="80" y="102">Matplotlib · Jupyter</text>
+<path class="pr" stroke-width="1.2"
+  d="M140,25 Q160,25 160,15 Q160,5 180,5 Q200,5 200,15 Q200,25 260,25
+     L260,65 Q270,65 270,75 Q270,85 260,85
+     L260,130 L140,130
+     L140,85 Q130,85 130,75 Q130,65 140,65 Z"/>
+<text font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle" class="lr" x="200" y="72">R</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sr" x="200" y="88">Regression · Stats</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sr" x="200" y="102">Hypothesis testing</text>
+<path class="pe" stroke-width="1.2"
+  d="M260,25 Q280,25 280,15 Q280,5 300,5 Q320,5 320,15 Q320,25 380,25
+     L380,65 Q390,65 390,75 Q390,85 380,85
+     L380,130 L260,130
+     L260,85 Q250,85 250,75 Q250,65 260,65 Z"/>
+<text font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle" class="le" x="320" y="72">Excel</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="se" x="320" y="88">Pivot tables · SUMIF</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="se" x="320" y="102">Dashboards · Charts</text>
+<path class="ph" stroke-width="1.2"
+  d="M380,25 Q400,25 400,15 Q400,5 420,5 Q440,5 440,15 Q440,25 500,25
+     L500,130 L380,130
+     L380,85 Q370,85 370,75 Q370,65 380,65 Z"/>
+<text font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle" class="lh" x="440" y="72">Physics</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sh" x="440" y="88">Math · Modeling</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="sh" x="440" y="102">Uncertainty · Fitting</text>
+<path class="ps" stroke-width="1.2" opacity="0.65"
+  d="M550,35 Q570,35 570,25 Q570,15 590,15 Q610,15 610,25 Q610,35 650,35
+     L650,130 L550,130 Z"/>
+<text font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle" class="ls" x="600" y="77">SQL?</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="ss" x="600" y="93">coming soon...</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="ss" x="600" y="107">the missing piece</text>
+<text font-family="sans-serif" font-size="10" text-anchor="middle" class="ss" x="300" y="150">every skill is a piece · the picture gets clearer with each one</text>
+</svg>

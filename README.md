@@ -25,7 +25,7 @@
 
 I'm a 3rd-year Mathematical Physics student with a strong focus on **data analysis, numerical modeling, and statistical computing**. I work primarily in Python and R, applying quantitative methods to real observational and experimental datasets.
 
-I'm currently seeking a **4–16 month data analytics or solutions delivery internship** beginning May 2026 through UAlberta's Science Co-op Program.
+I'm currently seeking a **4–16 month data analytics or solutions delivery internship** beginning May 2026 through UAlberta's Science Internship/Co-op Program.
 
 ---
 

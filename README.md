@@ -56,9 +56,7 @@ Built a multi-sheet Excel dashboard tracking income, expenses, and savings acros
 ---
 
 ## 📚 Currently Studying
-- Mathematical Methods · Statistical Mechanics · Quantum Mechanics
-- Exploring: SQL for data analysis · Kaggle datasets
-
----
+- Mathematical Methods · Statistical Mechanics · Quantum Mechanics · Indigenous Literature
+- Exploring: SQL for data analysis · Kaggle datasets · Julia · Seismic imaging via inverse scattering methods · Forward vs. inverse problems in geophysics
 
 *🧩 "Every dataset is just a puzzle waiting to be solved."*

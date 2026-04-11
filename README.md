@@ -17,7 +17,7 @@
 | Matplotlib · SciPy | Hypothesis testing | Dashboards · Charts | Uncertainty analysis |
 | Jupyter Notebook | Statistical modeling | Trend visualization | Curve fitting |
 
-> *The last piece? `SQL` — currently being placed.*
+> *Next piece? `SQL` — currently being placed.*
 
 ---
 
